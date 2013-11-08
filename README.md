@@ -16,6 +16,7 @@ Gostou do módulo? Faça uma doação ao projeto
 Pesquisando na web encontrei 2 módulo que somando seus valores somam 200 usd rs
 
 http://amasty.com/payment-restrictions.html
+
 http://amasty.com/shipping-rules.html
 
 Se você gostou, se foi útil para você, se fez você economizar aquela grana pois estava prestes a pagar caro por aquele módulo pago, pois não achava um solução gratuita que te atendesse e queira prestigiar o trabalho feito efetuando uma doação de qualquer valor, não vou negar e vou ficar grato, você pode fazer isso utilizando o Pagseguro para o email 2ds@deivison.com.br
