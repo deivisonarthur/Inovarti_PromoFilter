@@ -1,0 +1,8 @@
+<?xml version="1.0" ?><config>
+	<modules>
+		<Inovarti_PromoFilter>
+			<active>true</active>
+			<codePool>community</codePool>
+		</Inovarti_PromoFilter>
+	</modules>
+</config>
