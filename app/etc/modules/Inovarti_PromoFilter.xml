@@ -2,7 +2,7 @@
 	<modules>
 		<Inovarti_PromoFilter>
 			<active>true</active>
-			<codePool>community</codePool>
+			<codePool>local</codePool>
 		</Inovarti_PromoFilter>
 	</modules>
 </config>
