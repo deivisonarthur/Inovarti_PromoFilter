@@ -21,7 +21,7 @@ class Inovarti_PromoFilter_Model_Quote_Address extends Mage_Sales_Model_Quote_Ad
      */
     public function requestShippingRates(Mage_Sales_Model_Quote_Item_Abstract $item = null)
     {
-        Mage::log("requestShippingRates");
+        //Mage::log("requestShippingRates");
         /** @var $request Mage_Shipping_Model_Rate_Request */
         $request = Mage::getModel('shipping/rate_request');
         $request->setAllItems($item ? array($item) : $this->getAllItems());
